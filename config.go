@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	t "github.com/TyphoonMC/TyphoonCore"
+	t "github.com/TrevorMR/TyphoonCore"
 	"github.com/TyphoonMC/go.uuid"
 )
 
