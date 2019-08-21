@@ -6,7 +6,7 @@ import (
 
 func main() {
 	core := t.Init()
-	core.SetBrand("typhoonlimbo")
+	core.SetBrand("blackhole")
 
 	loadConfig(core)
 
